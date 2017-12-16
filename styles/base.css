@@ -1,0 +1,8 @@
+* {
+background-color: lightgray;
+box-sizing: border-box;
+}
+div {
+    border: 1px solid gray;
+    position: relative;
+}
