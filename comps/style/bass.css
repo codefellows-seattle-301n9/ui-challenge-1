@@ -1,0 +1,19 @@
+*{
+    
+    border: thin;
+    border-style: solid;
+    border-color: rgb(59, 58, 58);
+}
+html{
+    background-color: white;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(179, 176, 176);
+    height: 768px;
+    width: 480px;
+    margin: 3%;
+    
+}
